@@ -8,6 +8,9 @@ and follow this link to get started.
 
 https://zapier.com/platform/public-invite/5588/8b4b1b35fee48093b29f3639fbd6f619/
 
+For integrations to be made public, they must be submitted by the SaaS owner, 
+and not a third party.
+
 ## About have i been pawned
 Here is the introduction fro Troy Hunt
  "I created HIBP as a free resource for anyone to quickly assess if they may
